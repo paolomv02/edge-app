@@ -1,1 +1,1 @@
-# edge-app
+# CodeMinds-EdgeServer
